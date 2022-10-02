@@ -5,3 +5,6 @@ Hello What is your name
 Abcd
 hi
 how are you
+good
+bad
+sad
